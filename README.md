@@ -18,7 +18,7 @@ sudo apt install git ffmpeg
 Open terminal to the directory of the content you want to convert then do the following:
 
 ```
-git clone https://github.com/DaBlaze/audioBash.git
+git clone https://github.com/DaBlaze/audioBash.git audioBash
 cd audioBash/
 chmod +x audioBash.sh
 ```
