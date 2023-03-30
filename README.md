@@ -13,7 +13,7 @@ sudo apt update
 sudo apt install git ffmpeg
 ```
 
-### Clone this git repo
+### Clone repo
 
 Open terminal to the directory of the content you want to convert then do the following:
 
