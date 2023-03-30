@@ -25,7 +25,7 @@ chmod +x audioBash.sh
 
 ## How to Run
 
-In the audioBash directory we created and changed into run this command this:
+In the audioBash directory we created and changed into run this command:
 
 ```
 ./audioBash.sh
