@@ -10,7 +10,7 @@ Ubuntu:
 
 ```
 sudo apt update
-sudo apt install git ffmpeg
+sudo apt install wget ffmpeg
 ```
 
 ### Clone repo
@@ -18,8 +18,7 @@ sudo apt install git ffmpeg
 Open terminal to the directory of the content you want to convert then do the following:
 
 ```
-git clone https://github.com/DaBlaze/audioBash.git audioBash
-cd audioBash/
+wget https://raw.githubusercontent.com/DaBlaze/audioBash/main/audioBash.sh
 chmod +x audioBash.sh
 ```
 
@@ -32,3 +31,6 @@ In the audioBash directory we created and changed into run this command:
 ```
 
 Congrats. Your wav files are now mp3 files.
+
+
+**Remember!** this simple script will not affect sub directories.
